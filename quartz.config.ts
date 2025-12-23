@@ -28,27 +28,30 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
+        // 🌊 TEMA CHIARO - Mare e Oceano
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#e8f4f8",           // Azzurro chiarissimo (schiuma del mare)
+          lightgray: "#c5e3ed",       // Azzurro-grigio chiaro (onde calme)
+          gray: "#7ba5b8",            // Blu-grigio (mare al tramonto)
+          darkgray: "#2c5266",        // Blu marino scuro (profondità marine)
+          dark: "#1a3a4a",            // Blu marino molto scuro (abissi)
+          secondary: "#0d7d9e",       // Turchese intenso (oceano tropicale)
+          tertiary: "#d4a574",        // Oro/Ambra (tesori e dobloni)
+          highlight: "rgba(13, 125, 158, 0.15)",    // Turchese trasparente
+          textHighlight: "#ffd70088", // Oro trasparente (tesoro evidenziato)
         },
+        
+        // 🪵 TEMA SCURO - Stiva e Legno della Nave
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#2b1f17",           // Marrone molto scuro (legno della stiva)
+          lightgray: "#3d2e23",       // Marrone scuro (casse di legno)
+          gray: "#6b5544",            // Marrone medio (tavole della nave)
+          darkgray: "#c9b8a3",        // Beige/Sabbia (corda e vele)
+          dark: "#f0e6d2",            // Beige chiaro (pergamene)
+          secondary: "#4da8c7",       // Turchese chiaro (acqua vista dalla stiva)
+          tertiary: "#d4a574",        // Oro/Ambra (tesori nella stiva)
+          highlight: "rgba(77, 168, 199, 0.15)",    // Turchese trasparente
+          textHighlight: "#d4a57488", // Ambra trasparente (tesoro evidenziato)
         },
       },
     },

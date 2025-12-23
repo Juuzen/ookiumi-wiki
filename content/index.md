@@ -2,15 +2,10 @@
 title: Home
 ---
 
-# Benvenuto nella Ookiumi Wiki 🪼
+# Benvenuto nella Wiki di Ookiumi 🪼
 
-Questa è la mia knowledge base personale costruita con [Obsidian](https://obsidian.md/) e pubblicata con [Quartz](https://quartz.jzhao.xyz/).
-
-## Cosa troverai qui
-
-- Note e appunti
-- Documentazione personale
-- Risorse utili
-
-Esplora usando la barra di ricerca o il grafo delle connessioni!
-EOF
+Da qui hai modo di poter ricercare tutte le informazioni finora ottenute all'interno della campagna! 
+Ad esempio:
+- Nella lista dei [[Membri della Ciurma]] puoi trovare info su tutti i personaggi
+- Nel [[Diario delle Sessioni]] puoi tenere traccia di tutto ciò che è stato affrontato finora
+- Nella [[Bacheca delle Quest]] invece puoi trovare tutti i punti interrogativi ancora da risolvere

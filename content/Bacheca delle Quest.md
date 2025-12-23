@@ -1,0 +1,1 @@
+Attualmente la bacheca delle quest è vuota! Andando avanti con le sessioni, potrai trovare qui tutte le missioni ancora aperte, sia personali che di gruppo.

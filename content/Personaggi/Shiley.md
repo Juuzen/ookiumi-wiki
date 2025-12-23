@@ -1,0 +1,4 @@
+![[Shiley.png]]
+Shiley è nato tra i Lunariani superstiti, ma senza ali, considerato un difetto vivente. Cresce disprezzato dai suoi simili e ricambiando quell’odio in egual misura. Durante una carestia, un gruppo umano stermina gran parte della sua comunità per sfruttarne le fiamme. Shiley, sopravvissuto per caso, sviluppa la convinzione che nessuna razza meriti fiducia e che la sopravvivenza giustifichi qualunque mezzo. 
+
+Anni dopo trova e mangia il [[Milk Milk no Mi]], ma agli inizi non controlla quasi nulla del suo potere. Ora vaga per mare come mercenario spietato, con un unico obiettivo: ottenere abbastanza forza da non essere mai più controllato da nessuno. In fondo però, sotto la rabbia, sopravvive un senso di giustizia distorto che potrebbe — un giorno — essere risvegliato.

@@ -1,3 +1,4 @@
+![[sessione-0-rokzy.png]]
 [[Rokzy Clover|Rozky]] riprese conoscenza con un dolore sordo alle tempie e l’odore acre di salsedine e legno marcio nelle narici. Aprì lentamente gli occhi e si rese conto di trovarsi in una cella angusta, incassata nel ventre di una nave. Attraverso le fessure irregolari tra le assi del fasciame filtrava un buio profondo: fuori era ancora notte, e il mare doveva essere calmo, se la nave non scricchiolava più del dovuto.
 
 Provò a muoversi, ma il tintinnio metallico delle catene gli ricordò immediatamente la sua condizione. Mani e piedi erano assicurati al muro con pesanti fermi di ferro; non completamente immobilizzato, ma abbastanza da impedirgli qualunque tentativo di fuga. Dall’altro lato della cella, accovacciata contro la parete opposta, una figura giaceva immobile, apparentemente addormentata.
