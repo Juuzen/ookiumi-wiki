@@ -1,3 +1,8 @@
+---
+title: Mirelle Branzin
+draft: true
+---
+
 ![[Mirelle Branzin.png]]
 Capitano della Marina, coinvolta nell'operazione dell'Isola di [[Rokzy Clover]]. Attualmente non è chiaro il motivo dell'attacco all'isola, né cosa stanno cercando.
 

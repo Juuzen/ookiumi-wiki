@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ![[Edgar.png]]
 Edgar non ha mai conosciuto i suoi genitori.  
 Fu trovato ancora in fasce su una piccola isola, una di quelle che il Governo Mondiale considera irrilevanti. La Marina lo prese in custodia e lo crebbe come uno dei suoi tanti orfani: bambini senza nome, addestrati fin da piccoli per diventare soldati fedeli al vessillo della Giustizia.

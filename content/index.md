@@ -1,7 +1,6 @@
 ---
-title: Home
+title: Ookiumi Wiki
 ---
-
 # Benvenuto nella Wiki di Ookiumi 🪼
 
 Da qui hai modo di poter ricercare tutte le informazioni finora ottenute all'interno della campagna! 

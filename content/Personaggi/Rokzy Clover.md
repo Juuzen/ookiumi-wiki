@@ -1,1 +1,4 @@
+---
+draft: true
+---
 ![[Rokzy.png]]
