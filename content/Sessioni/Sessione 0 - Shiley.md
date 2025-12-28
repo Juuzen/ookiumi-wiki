@@ -300,3 +300,4 @@ _È una promessa._
 _La bandiera della ciurma sventolò nel vento della mattina, portando quattro anime—e presto cinque, e poi chissà quante altre ancora—verso l'orizzonte infinito._
 
 _L'avventura era appena cominciata._
+![[riunione.png]]

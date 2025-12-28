@@ -1,4 +1,3 @@
----
-draft: true
----
 ![[Rokzy.png]]
+Originario di [[Leaf Island]], ha sempre vissuto in tranquillità per tutta la sua vita.
+Fino a quando è stato costretto, a seguito della distruzione del suo villaggio, a scappare e lasciarsi tutto indietro. Tutto, ad eccezione di un antico [[Scrigno di Rokzy|scrigno]] che gli è stato affidato...
