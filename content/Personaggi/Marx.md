@@ -1,0 +1,2 @@
+![[Marx.png]]
+Bardo itinerante ed ex carpentiere, si trova attualmente a Waterseven senza avere nessun ricordo oltre 5 anni fa. Va in giro con una chitarra che sembra avere vita propria e con il quale, a detta di Marx, riesce a comunicare con l'aldilà.
